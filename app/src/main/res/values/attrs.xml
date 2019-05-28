@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="flowlayout">
+        <attr name="item_height" format="dimension"></attr>
+        <attr name="item_space" format="dimension"></attr>
+        <attr name="item_top_margin" format="dimension"></attr>
+    </declare-styleable>
+
+
+</resources>
