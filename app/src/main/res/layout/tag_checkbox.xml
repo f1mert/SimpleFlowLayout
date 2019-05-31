@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CheckBox xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="wrap_content"
-    android:layout_height="match_parent"
-    android:gravity="center|left"
+    android:layout_height="wrap_content"
+    android:gravity="center"
     android:paddingLeft="15dp"
     android:paddingRight="15dp"
     android:button="@null"
-    android:background="@drawable/opto_text_selector"
-    android:textColor="@drawable/optoeye_text_selector"
+    android:background="@drawable/button_selector"
+    android:textColor="@drawable/text_color_selector"
     />

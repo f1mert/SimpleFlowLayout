@@ -4,8 +4,10 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="transparent">#00000000</color>
-    <color name="ask_biankuang_color">#999999</color>
-    <color name="orange_login">#FF5F00</color>
+    <color name="gray">#999999</color>
+    <color name="orange">#FF5F00</color>
     <color name="gray_text">#717171</color>
     <color name="white_bg">#FFFFFF</color>
+    <color name="black">#333333</color>
+    <color name="gray_bg">#F7FAF9</color>
 </resources>

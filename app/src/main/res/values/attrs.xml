@@ -2,9 +2,9 @@
 <resources>
 
     <declare-styleable name="flowlayout">
-        <attr name="item_height" format="dimension"></attr>
-        <attr name="item_space" format="dimension"></attr>
-        <attr name="item_top_margin" format="dimension"></attr>
+        <attr name="itemSpace" format="dimension"></attr>
+        <attr name="itemHeight" format="dimension"></attr>
+        <attr name="dividerHeight" format="dimension"></attr>
     </declare-styleable>
 
 
